@@ -16,3 +16,9 @@
 
 # Investigating the incident to view and gather information on the alert.
 ![Screenshot 2024-05-30 at 2 34 53 PM](https://github.com/jerrycoriolan/Importing-triggering-automatic-alerts/assets/168882662/39d6603c-a427-4297-a34d-bcb93ca1ff6b)
+
+
+# Investigate the incident in the Windows Virtual Machine Event Viewer and within the Windows Defender operational logs to view the malware detection. 
+![Screenshot 2024-05-30 at 4 26 29 PM](https://github.com/jerrycoriolan/Importing-triggering-automatic-alerts/assets/168882662/44596d67-613b-4c4e-9c0a-3abc827e2a5f)
+
+
