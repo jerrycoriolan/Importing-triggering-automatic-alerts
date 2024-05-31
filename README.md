@@ -1,4 +1,4 @@
-# Importing Alerts in Sentinel and opening and assigning an incident to myself
+# Importing Alerts in Sentinel/Opening and assigning an incident to myself
 <img width="960" alt="Screenshot 2024-05-30 at 1 31 54 PM" src="https://github.com/jerrycoriolan/Importing-triggering-automatic-alerts/assets/168882662/cae7d74c-b4c6-4e1d-ba04-66a05b5d0cac">![Screenshot 2024-05-30 at 10 43 08 PM](https://github.com/jerrycoriolan/Importing-triggering-automatic-alerts/assets/168882662/f7606c24-c3d3-4396-b646-336fcdf18e24)
 
 
